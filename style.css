@@ -6,6 +6,10 @@ h2{
     margin-bottom: -5px;
 }
 
+.text_center{
+    text-align:center;
+}
+
 .container {
     /* width: 1024px; */
     max-width: 1024px;
@@ -29,6 +33,9 @@ h2{
     clear: both;
 }
 
+#footer{
+    margin-top: 200px;
+}
 
 #map{
     width: 300px;
