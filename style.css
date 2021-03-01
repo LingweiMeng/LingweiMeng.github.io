@@ -29,10 +29,8 @@ h2{
     clear: both;
 }
 
-.footer{
-    margin: auto;
-}
 
 #map{
-    width: 10%;
+    width: 300px;
+    margin: auto;
 }
