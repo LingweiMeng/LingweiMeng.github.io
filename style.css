@@ -30,7 +30,10 @@ h2{
 }
 
 #footer{
-    margin-top: 200px;
+    margin-top: 150px;
     text-align:center;
 }
 
+.item{
+    margin-top: 30px;
+}
