@@ -1,1 +1,1 @@
-Glad thay you found me.
+Glad that you found me.
