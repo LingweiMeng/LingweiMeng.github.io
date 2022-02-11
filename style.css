@@ -9,7 +9,7 @@ h2{
 
 .container {
     /* width: 1024px; */
-    max-width: 1024px;
+    max-width:1060px;
     padding: 50px 80px;
     border-radius: 20px;
     margin: auto;
@@ -18,13 +18,13 @@ h2{
 
 #bio {
     float:left;
-    width: 55%;
+    width: 53%;
 }
 
 #pic {
     float: right;
     width: 40%;
-    position:relative; left:0px; top:50px;
+    position:relative; left:10px; top:30px;
 }
 
 .clear{
@@ -32,7 +32,7 @@ h2{
 }
 
 #footer{
-    margin-top: 150px;
+    margin-top: 90px;
     text-align:center;
 }
 
