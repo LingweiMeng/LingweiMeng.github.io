@@ -19,7 +19,7 @@ a:hover { text-decoration:underline}
 
 .container {
     /* width: 1024px; */
-    max-width:1060px;
+    max-width:1057px;
     padding: 50px 80px;
     border-radius: 20px;
     margin: auto;
@@ -28,13 +28,20 @@ a:hover { text-decoration:underline}
 
 #bio {
     float:left;
-    width: 53%;
+    width: 66%;
 }
 
-#pic {
+.cir_pic {
+    border-radius: 20px;
+    width: 240px;
+    position: relative;
+    left: 0%;
+}
+
+#mypic {
     float: right;
-    width: 40%;
-    position:relative; left:10px; top:30px;
+    width: 30%;
+    position:relative; left:25px; top:30px;
 }
 
 .clear{
