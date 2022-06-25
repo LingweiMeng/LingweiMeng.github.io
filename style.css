@@ -3,18 +3,26 @@ body{
     background-color: #f4f4f4;
     line-height: 1.5em
 }
+
 h1{
     color: #ed7059;
 }
+
 h2{
     color: #ed7059;
     margin-bottom: -5px;
+}
+
+.highlight {
+    /* background-color: rgba(221, 243, 231, .4); */
+    color: #ed7059;
 }
 
 a:link { text-decoration: none; color:#1e90ff}
 /* a:active { text-decoration:blink} */
 a:hover { text-decoration:underline} 
 /* a:visited { text-decoration: none;color: green} */
+
 
 
 .container {
@@ -26,30 +34,35 @@ a:hover { text-decoration:underline}
     background-color: white;
 }
 
-#bio {
-    float:left;
-    width: 66%;
-}
 
 .cir_pic {
     border-radius: 20px;
-    width: 240px;
+    width: 140px;
     position: relative;
     left: 0%;
 }
 
 #mypic {
-    float: right;
+    float: left;
+    width: 18%;
+    position:relative; left:5px; top:20.5px;
+}
+
+#header {
+    float: left;
     width: 30%;
-    position:relative; left:25px; top:30px;
+    margin-bottom: 0px;
 }
 
 .clear{
     clear: both;
 }
 
+
+
 #footer{
     margin-top: 90px;
+    margin-bottom: -20px;
     text-align:center;
 }
 
