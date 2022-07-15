@@ -38,20 +38,24 @@ a:hover { text-decoration:underline}
 .cir_pic {
     border-radius: 20px;
     width: 140px;
-    position: relative;
+    /* position: relative; */
     left: 0%;
 }
 
 #mypic {
-    float: left;
-    width: 18%;
-    position:relative; left:5px; top:20.5px;
+    /* float: left; */
+    /* width: 16%; */
+    position:relative; 
+    left:5px; top:20.5px;
 }
 
 #header {
-    float: left;
-    width: 30%;
+    /* float: right; */
+    /* width: 82%; */
+    margin-left: 190px;
     margin-bottom: 0px;
+    margin-top: -146px;
+    position: relative;
 }
 
 .clear{
