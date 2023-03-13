@@ -7,7 +7,7 @@ body{
 h1{
     color: #ed7059;
 }
-
+/* ed7059 */
 h2{
     color: #ed7059;
     margin-bottom: -5px;
@@ -17,11 +17,12 @@ h2{
     /* background-color: rgba(221, 243, 231, .4); */
     color: #ed7059;
 }
-
-a:link { text-decoration: none; color:#1e90ff}
+/* 1e90ff 4d80e6 */
+a:link { text-decoration: none; color:#4d80e6}
+/* a:link { text-decoration: none; color:green} */
 /* a:active { text-decoration:blink} */
 a:hover { text-decoration:underline} 
-/* a:visited { text-decoration: none;color: green} */
+a:visited { text-decoration: none;color: #945395}
 
 
 
@@ -31,7 +32,7 @@ a:hover { text-decoration:underline}
     padding: 50px 80px;
     border-radius: 20px;
     margin: auto;
-    background-color: white;
+    background-color: #fefefe;
 }
 
 
