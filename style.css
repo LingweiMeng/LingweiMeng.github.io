@@ -1,21 +1,36 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', serif; */
+    /* font-family: Cursive;  */
+    /* font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif; */
+    /* font-family: serif; */
+    font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+    /* font-weight: 550; */
+    font-size: 13pt;
     background-color: #f4f4f4;
     line-height: 1.5em
 }
 
+/* strong{
+    font-weight: 949;
+} */
+
 h1{
-    color: #ed7059;
+    /* font-family: Times; */
+    /* font-weight:normal; */
+    color: #5a80a0;
 }
 /* ed7059 */
 h2{
-    color: #ed7059;
+    /* font-family: Times; */
+    font-weight: normal;
+    color: #5a80a0;
     margin-bottom: -5px;
 }
 
 .highlight {
+    font-weight: bold;
     /* background-color: rgba(221, 243, 231, .4); */
-    color: #ed7059;
+    color: #000000;
 }
 /* 1e90ff 4d80e6 */
 a:link { text-decoration: none; color:#4d80e6}
