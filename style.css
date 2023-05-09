@@ -81,3 +81,11 @@ a:visited { text-decoration: none;color: #945395}
 .item{
     margin-top: 40px;
 }
+
+#mylist {
+    width: 980px;
+}
+
+#mylist li span {
+    float: right;
+}
