@@ -51,6 +51,10 @@ a:visited { text-decoration: none;color: #945395}
     left: 0%;
 }
 
+.date{
+    font-family: Courier;
+}
+
 #mypic {
     /* float: left; */
     /* width: 16%; */
@@ -82,10 +86,14 @@ a:visited { text-decoration: none;color: #945395}
     margin-top: 40px;
 }
 
-#mylist {
+.mylist {
     position: relative;
 }
 
-#mylist li span {
+.mylist li span {
     float: right;
+}
+
+#misclist {
+    margin-top: -1em;
 }
