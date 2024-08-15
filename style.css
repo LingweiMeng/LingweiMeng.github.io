@@ -20,6 +20,10 @@ hr{
     margin-bottom: -3px;
 }
 
+ul,ol {
+    padding-left: 30px;
+}
+
 /* strong{
     font-weight: 5000;
 } */
